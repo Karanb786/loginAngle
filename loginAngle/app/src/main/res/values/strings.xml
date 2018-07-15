@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Blurb</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="RememberMe">Remember Me</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="Logo">Logo</string>
+    <string name="FirstName">FirstName</string>
+    <string name="LastName">LastName</string>
+    <string name="Email">Email</string>
+    <string name="ConfirmEmailAddress">Confirm Email Address</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="registrationPage">Registration Page</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="title_activity_real_navigation">real_navigation</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
